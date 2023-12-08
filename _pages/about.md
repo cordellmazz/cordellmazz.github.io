@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an electrical and computer engineering undergraduate senior at the University of Texas at Austin. However, my studies mainly focus on quantum information science, where most of my <a href="https://xkcd.com/1861/" target="_blank">blissfully unaware</a> academic passion lies. The research that I have done thus far is focused on [quantum communications and quantum photonics](#nasa-research).
+I am an electrical and computer engineering undergraduate senior at the University of Texas at Austin. However, my studies mainly focus on quantum information science, where most of my <a href="https://xkcd.com/1861/" target="_blank">blissfully unaware</a> academic passion lies. The research that I have done thus far is focused on [quantum communications, quantum information, and quantum photonics](#nasa-research).
 
 A few of my other interests include composing and producing music, running a [Pathfinder 2e](https://2e.aonprd.com/PlayersGuide.aspx) game, and [rigorous physical activity](/exercise/).
 
@@ -18,7 +18,7 @@ Please feel free to [reach out to me](/contact/)!
 Last summer, I interned with NASA GSFC's Space Communications and Navigation group, researching quantum clock synchronization protocols.
 Below is a talk I gave about my findings and work, including a novel protocol I formulated based on [this paper](https://arxiv.org/abs/1812.08450), for which NASA is now working on a patent!
 
-<iframe width="560" height="335" src="https://www.youtube.com/embed/ts2IwPe4iC8?start=68&vq=hd720" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="335" src="https://www.youtube.com/embed/jYCN5OFh2rU?start=68&vq=hd720" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Revojam & Other Startups
 Since late 2021, I have worked on multiple startups continuously, about 30 to 40 hours weekly through school and internships. They have covered different objectives like mitigating DMCA strikes for streamers, applying AI and language models to novel applications, and using trained models for heart health analysis from data taken by wearable hardware. Below is a video of a test of my first startup, which synchronized audio playback for an unlimited number of people from a dynamic music queue. We are testing it in one of UT's computer labs on 14 different Spotify accounts (notice that beautiful audio synchronization)!
