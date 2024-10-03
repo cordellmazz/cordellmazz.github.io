@@ -16,7 +16,7 @@ Please feel free to [reach out to me](/contact/)!
 
 ## NASA Research 2024
 
-I continued my research with NASA GSFC's Space Communications and Navigation (SCaN) group this Summer in quantum clock synchronization protocols through in lab implementations and data post-processing algorithms. I both implemented the protocol from last summer using photonics and I created two new post-processing algorithms that both beat industry and research standards! In addition to my first new technology report (NASA's process for filing patents), we submitted a second report for the second algorithm which could find critical values in data that was 99.9999% noise! (Research talk to be posted soon!)
+I continued my research with NASA GSFC's Space Communications and Navigation (SCaN) group this Summer in quantum clock synchronization protocols through in lab implementations and data post-processing algorithms. I both implemented the protocol from last summer using photonics and I created two new post-processing algorithms that beat both industry and research standards! In addition to my first new technology report (NASA's process for filing patents), we submitted another report for the second algorithm which could find critical values in data that was 99.9999% noise! (Research talk to be posted soon!)
 
 ## NASA Research 2023
 
