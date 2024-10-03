@@ -8,7 +8,7 @@ redirect_from:
     - /about.html
 ---
 
-I am an recent graduate of the University of Texas at Austin where I studied electrical and computer engineering as well as quantum information science. I am looking to continue my education through a PhD focused on distributed quantum computing and quantum networking combining my backgrounds in synchronization, photonics, and quantum information science! The research that I have done thus far is focused on [quantum communications, quantum information, and quantum photonics](#nasa-research).
+I am a recent graduate of the University of Texas at Austin where I studied electrical and computer engineering as well as quantum information science. I am looking to continue my education through a PhD focused on distributed quantum computing and quantum networking combining my backgrounds in synchronization, photonics, and quantum information science! The research that I have done thus far is focused on [quantum communications, quantum information, and quantum photonics](#nasa-research).
 
 A few of my other interests include composing and producing music, running a [Pathfinder 2e](https://2e.aonprd.com/PlayersGuide.aspx) game, and [rigorous physical activity](/exercise/).
 
